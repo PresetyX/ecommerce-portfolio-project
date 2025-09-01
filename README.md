@@ -2,8 +2,6 @@
 
 ---
 
-### **Versão 2: Detalhada e Profissional (Recomendada)**
-
 ```markdown
 # Project: E-commerce Platform Portfolio
 
